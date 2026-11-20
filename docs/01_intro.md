@@ -4,5 +4,4 @@
 ## Цель
 - Изучить инструменты автоматизации.
 - Навести порядок в файлах.
-
-![схема](<img width="390" height="360" alt="image" src="https://github.com/user-attachments/assets/a8398c57-4558-499e-a700-22ab71f6c8d7")
+<img width="424" height="352" alt="image" src="https://github.com/user-attachments/assets/e3a15aa2-3fad-4462-b23a-9a0052bbedc0" />
